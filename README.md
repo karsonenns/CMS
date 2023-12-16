@@ -29,6 +29,11 @@ GitYell is a creative product focused on demonstranding whats possible with Gith
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+<details><summary>Details</summary>
+<p>Details Work!</p>
+</details>
+
+
 ## Footnotes
 Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
