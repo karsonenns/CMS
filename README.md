@@ -28,7 +28,7 @@ GitYell is a creative product focused on demonstranding whats possible with Gith
 > Advises about risks or negative outcomes of certain actions.
 
 ## ToDos
-- [x] #739
+- [x] #1
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
