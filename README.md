@@ -7,6 +7,9 @@ GitYell is a creative product focused on demonstranding whats possible with Gith
 ## Table of Contents
 * Overview
 * [Alerts](#alerts)
+* [ToDos](#todos)
+* [Details](#details)
+* [Footnotes](#footnotes)
 
 ## Alerts
 > [!NOTE]
@@ -24,11 +27,13 @@ GitYell is a creative product focused on demonstranding whats possible with Gith
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-## ToDo's
+## ToDos
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+
+## Details
 <details><summary>Details</summary>
 <p>Details Work!</p>
 </details>
