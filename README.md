@@ -1,3 +1,6 @@
+[Edit This Page](https://github.com/karsonenns/GitYell/edit/main/README.md)
+
+
 # GitYell
 
 GitYell is a creative product focused on demonstranding whats possible with Github repos.
@@ -6,7 +9,7 @@ GitYell is a creative product focused on demonstranding whats possible with Gith
 ## Table of Contents
 
 * Overview
-* [Color Pallete](https://github.com/karsonenns/GitYell/edit/main/README.md#color-pallete)
+* [Color Pallete](#color-pallete)
 
 
 
